@@ -1,2 +1,13 @@
-.exe
-.vscode
+# Compiled C/C++ files
+*.exe
+*.out
+*.o
+*.obj
+a.out
+
+# Build output directories
+build/
+bin/
+
+# Editor settings
+.vscode/
